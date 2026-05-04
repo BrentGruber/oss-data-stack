@@ -1,0 +1,8 @@
+.env
+.env.*
+compose/.env
+compose/.data/
+compose/kestra-data/
+compose/meltano/.meltano/
+compose/meltano/.venv/
+compose/trino/catalog/*.local.properties
