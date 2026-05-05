@@ -16,6 +16,9 @@ Current tools in scope:
 ## Layout
 
 - `compose/` - local Docker Compose stack and related configuration
+- `docs/vision.md` - project vision and principles
+- `docs/decisions.md` - current architectural decisions and direction
+- `docs/roadmap.md` - short-term, medium-term, and long-term goals
 
 ## Goals
 
